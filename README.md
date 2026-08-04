@@ -1,1 +1,1 @@
-<img src="./assets/cat.webp" width="20 alt="cat">
+<img src="./assets/cat.webp" width="20" alt="cat">
